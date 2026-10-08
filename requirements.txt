@@ -1,0 +1,11 @@
+rdkit==2026.3.6
+imbalanced-learn==0.14.2
+xgboost==3.4.1
+shap==0.52.0
+scikit-learn==1.9.1
+pandas==2.3.3
+numpy==2.5.1
+pubchempy==1.0.5
+matplotlib
+seaborn
+jupyter
